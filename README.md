@@ -119,7 +119,7 @@ The central control systems that coordinate all robots and devices.
 
 # 📁 Repository Structure
 
-NOVAgrid/
+  NOVAgrid/
 │
 ├── README.md
 ├── diagrams/
@@ -142,7 +142,6 @@ NOVAgrid/
 └── HomeAssistant/
 ├── IntegrationNotes.md
 ├── Automations.md
-└── Diagrams.md
 
 
 ---
