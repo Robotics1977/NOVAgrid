@@ -113,7 +113,7 @@ The central control systems that coordinate all robots and devices.
 
 ![NOVAgrid Architecture](NOVAgrid_Architecture_Wide_Orthogonal.png)
 
-*(Place your PNG here after uploading it.)*
+
 
 ---
 
