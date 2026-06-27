@@ -1,5 +1,5 @@
 # 🤖 Oscar — Autonomous Lawnmower Rover
-**Platform:** Raspberry Pi 5 + Hoverboard Motors  
+**Platform:** Raspberry Pi 5 + Wheelchair Motors  
 **Role:** Outdoor autonomous mower  
 **OS / Stack:** Ubuntu 24.04 + ROS 2 Jazzy  
 **Communication:** ROS 2 + possible MQTT for sensor nodes  
@@ -11,7 +11,7 @@
 Oscar is NOVAgrid’s heavy-duty outdoor rover built to autonomously mow or traverse yards.  
 The concept merges:
 
-- large hoverboard BLDC hub motors  
+- Wheelchair motors with wheels BLDC hub motors  
 - a ruggedized Pi 5 compute unit  
 - an enclosed electronics bay  
 - long-range Wi-Fi or mesh network  
@@ -24,7 +24,7 @@ Oscar represents the outdoor robotics branch of NOVAgrid.
 | Component | Notes |
 |----------|-------|
 | **Raspberry Pi 5** | Main computer |
-| **Hoverboard motors** | Strong, efficient propulsion |
+| **Wheelchair motors** | Strong, efficient propulsion |
 | **VESC or custom motor controller** | BLDC control |
 | **GPS (RTK optional)** | Outdoor positioning |
 | **Wheel encoders** | Odometry |
@@ -54,7 +54,7 @@ Oscar represents the outdoor robotics branch of NOVAgrid.
 ---
 
 ## 🗓 Development Roadmap
-- After Alfred 1 & Alfred 5 base frameworks  
+- After Alfred 1 base frameworks  
 
 ---
 
